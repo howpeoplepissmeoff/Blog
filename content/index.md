@@ -1,5 +1,5 @@
 ---
-title: Your are not welcome
+title: You are not welcome
 ---
 
 You are not welcome if you belong to one of these categories
